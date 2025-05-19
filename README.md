@@ -44,9 +44,9 @@ AISM Tracker는 다음을 목적으로 합니다:
 
 | 구성 요소        | 기술                |
 |------------------|---------------------|
-| 프론트엔드        | Vite + Vue.js (예정) |
+| 프론트엔드        | Vite + Vue.js |
 | 백엔드 API 서버   | FastAPI             |
-| 예측 모델        | LSTM (PyTorch 또는 Keras 기반) |
+| 예측 모델        | LSTM (Keras 기반) |
 | 시각화            | matplotlib 등       |
 | 재학습 조건       | RMSE 기준 초과 시 자동 수행 |
 
@@ -88,8 +88,3 @@ npm run dev
 
 1기 2반 7조
 김가언, 김재현, 서찬영, 유소영, 이현희, 최혜정
-
----
-### 기획서
-
-[AISM Tracker - 7조.pdf](https://github.com/user-attachments/files/20280789/AISM.Tracker.-.7.pdf)
