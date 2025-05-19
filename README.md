@@ -88,3 +88,8 @@ npm run dev
 
 1기 2반 7조
 김가언, 김재현, 서찬영, 유소영, 이현희, 최혜정
+
+---
+### 기획서
+
+[AISM Tracker - 7조.pdf](https://github.com/user-attachments/files/20280789/AISM.Tracker.-.7.pdf)
